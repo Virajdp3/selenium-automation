@@ -1,10 +1,10 @@
-# 🔐 Form Authentication Automation with Selenium
+#  Form Authentication Automation with Selenium
 
 This project demonstrates automated login and logout functionality using **Selenium WebDriver** with **Node.js** and **ChromeDriver** on the [HerokuApp Login Demo](https://the-internet.herokuapp.com/login).
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Launches Chrome browser
 - Navigates to the login page
@@ -15,7 +15,7 @@ This project demonstrates automated login and logout functionality using **Selen
 
 ---
 
-## 🛠 Prerequisites
+##  Prerequisites
 
 - [Node.js](https://nodejs.org/)
 - [Google Chrome](https://www.google.com/chrome/)
@@ -24,7 +24,7 @@ This project demonstrates automated login and logout functionality using **Selen
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
 # Clone the repository (or create your own folder)
@@ -34,3 +34,4 @@ cd your-repo-name
 # Initialize project and install dependencies
 npm init -y
 npm install selenium-webdriver chromedriver
+
