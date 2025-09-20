@@ -1,8 +1,8 @@
-# 📚 Book Price Scraper using Selenium WebDriver (JavaScript)
+#  Book Price Scraper using Selenium WebDriver (JavaScript)
 
 This project uses **Selenium WebDriver** with **Node.js** to scrape book titles and prices from the website [Books to Scrape](https://books.toscrape.com/). The scraped data from the first two pages is printed to the console and saved in a CSV file.
 
-## 🚀 Features
+##  Features
 
 - Launches Chrome browser using Selenium WebDriver
 - Scrapes:
@@ -11,7 +11,7 @@ This project uses **Selenium WebDriver** with **Node.js** to scrape book titles 
 - Navigates to the next page
 - Saves the results to `books.csv` in CSV format
 
-## 📦 Dependencies
+##  Dependencies
 
 - `selenium-webdriver`
 - `chromedriver`
@@ -25,3 +25,4 @@ Install dependencies:
 
 ```bash
 npm install selenium-webdriver chromedriver
+
