@@ -2,7 +2,7 @@
 
 This project automates the login and record re-execution process in a StrategicERP cloud instance using Selenium WebDriver with Node.js. It simulates user behavior from login to navigating the proposal estimation module and executing a predefined record.
 
-## 🚀 Features
+##  Features
 
 - Automates login process for StrategicERP
 - Navigates through client-side menus
@@ -11,7 +11,7 @@ This project automates the login and record re-execution process in a StrategicE
 - Executes the **Re-Execute** action and confirms it
 - Supports end-to-end testing or load testing scenarios
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - [Node.js](https://nodejs.org/)
 - [Selenium WebDriver](https://www.selenium.dev/)
@@ -19,3 +19,4 @@ This project automates the login and record re-execution process in a StrategicE
 - JavaScript (ES6+)
 
 *NOTE* - User Credentials are hidden due to data privacy.
+
